@@ -1,0 +1,30 @@
+# lang_en.py
+translations = {
+    "title": "QEMU Launcher",
+    "launch_vm": "Launch VM",
+    "profile_label": "Available Profiles: ",
+    "save_profile": "Save Profile",
+    "load_profile": "Load Profile",
+    "delete_profile": "Delete Profile",
+    "disk_image": "Browse",
+    "iso_image": "Browse",
+    "ram": "4096",
+    "cpu": "2",
+    "network": "Network",
+    "snapshot": "Launch as a snapshot",
+    "console_output": "Console output",
+    "architecture": "Architecture",
+    "machine": "virt-10.1",
+    "cpu_model": "max",
+    "bios": "File BIOS",
+    "vga": "VGA Type",
+    "input": "Input Devices",
+    "usb_bus": "Controller USB",
+    "disk_label": "Disk Image",
+    "disk_type": "Disk Type",
+    "accel": "Acceleration",
+    "configure_binaries": "Configure QEMU binaries",
+    "language": "Language",
+    "about_me": "About"
+    
+}
